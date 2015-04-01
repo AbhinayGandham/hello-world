@@ -1,4 +1,4 @@
 # hello-world
 my first repository on github
 
-i love android and windows
+i love android and windows.
